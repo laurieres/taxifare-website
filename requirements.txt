@@ -1,6 +1,7 @@
 # Main one
 streamlit
 requests
+geopy
 
 wheel
 nbresult
