@@ -59,6 +59,8 @@ if response.status_code == 200:
 else:
     st.write(f"Erreur {response.status_code}: {response.text}")
 
+st.markdown(f"Try & Update")
+
 
 
 ## Finally, we can display the prediction to the user
