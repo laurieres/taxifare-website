@@ -1,7 +1,7 @@
 # Main one
 streamlit
 requests
-geopy
+geopy.geocoders
 
 wheel
 nbresult
